@@ -5,7 +5,7 @@ import Homepage from './components/Homepage';
 function App() {
   return (
    <>
-   <div className='App'>
+   <div className='Appk mx-28'>
 
    <Homepage/>
    </div>
